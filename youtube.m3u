@@ -321,7 +321,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="East Africa" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQkcR_PzChnpoy_CFEHOhBJoWYzJPUOryL2McEGBSQ=s176-c-k-c0x00ffffff-no-rj" tvg-id="", KTN News Kenya
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1726489829/ei/hdDnZqrVF4-WsfIPg5aayAk/ip/20.172.25.65/id/0qUuO9sjoCE.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/54MbxeZrr3VM5HgqjzIipfkSYI23MhVB8WMeH1SQV18w-N9vSZBqcCPNiUjedjU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAO7zqAO-8PtIau9SY57ndbkjN8d8elwBxeu5U4BSLjK1AiBDS6qgLFCVS73WN3Rp1X3117I73XsYRSb0tTiEvV4kVg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="East Africa" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR1vkUESExM9jHkADW6pCdw0LQWXULl6vLV-4OR=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Azam TV Tanzania
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
