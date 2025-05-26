@@ -135,7 +135,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", Roland Martin Unfiltered
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1748246385/ei/EcszaILyEO-7kucP7dDLsQQ/ip/40.65.203.174/id/H_fCm6gnFsQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAZK9pZPkmeqqn9LjpAkaLQwboQFD3pF8m4D_ekxJq2L92lVIIH7RSw4fscl1GW-m8GC-mmFf2_-/spc/wk1kZvn2HhUc_W0IcjEsUE-udeag5T9mKBTMWIGokZTJw8t0ccJ8uQwj43MrjQE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgQOytDb41NcenewhK4WPqKrTQFurrB2EcwktgW8NlUDUCIBcQIvKujsfQ_31MugkbheU27alOaV4R7rkHzNfQuRxp/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", Sky News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
