@@ -429,7 +429,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", News18 Lokmat
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1754820486/ei/JhuYaIedE-mS2_gP45y74QM/ip/64.236.134.19/id/9b3yJBV9Pu8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLOlNGdwpA_BQm-dTjNmYEVJHYCDgVz54Y7r0PS4WP9UGUtDwddfSwcNEGEXVX3JiiuQFEemzvp_/spc/l3OVKSA7_ZNKv1DcA2NhxsC5btc9ZtoNrMklX6OyPX8DK5QhJFjy3gFUVlGegUDNYN0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51548755/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJfpdeeJ3-p9n0im_I5L9CRKJvEAB9LatPMN8BG1PY8BAiB5KhB-0qt2Ur8_cYEWabUVvTFMENuazJx4Hf-qjvl02g%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", ABP MAZHA
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
