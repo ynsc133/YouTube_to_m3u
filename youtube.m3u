@@ -117,7 +117,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kannada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Suvarna_News_New_Logo.jpg" tvg-id="", Asianet Suvarna News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1762270043/ei/-8YJacWtHdiV2_gPte2ysQY/ip/135.232.200.3/id/I0TWaqEHhSI.11/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51478320/txs/51478320%2C51478321%2C51478322/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5R8DavflDgcsBkWnkDImlUGDCitmB8lBsDrATXu2pvNxH5DnzsJ-cEFXwyvYDTk4rL9PoAwQFb4/spc/6b0G_G7MFSU5iNsV2vutk509x4aTEX9LAdxaBVixjQyLxAZ7B5b-a25lPRXMJ02fU_o/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANwbaqLv5Q0kFvxDJwbT4vuQ5a23V-AG2l1uSo1hror9AiBKoFwBmCreChavjOjR-1zSkzpEl8F460Ttgii0fWFfCQ%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kannada" tvg-logo="http://www.tv5kannada.com/images/logo.png" tvg-id="", TV5 Kannada
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -252,7 +252,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Radio" tvg-logo="http://vignette4.wikia.nocookie.net/justdance/images/0/0c/Logo-jdtcm1924788.png" tvg-id="", Best Suffle Dance
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1762282467/ei/g_cJabDVNuyW2_gPp4TJmQU/ip/135.232.208.180/id/qWf-FPFmVw0.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51634281/txs/51631264%2C51634249%2C51634250%2C51634278%2C51634279%2C51634280%2C51634281/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5RL1e1D4c8fhTe4tZ5bUk2BzHFhJU5BPdopRL4LbgFcctAWQGlj0YHQ8GxIGx2KlOk2qGsoK16m/spc/6b0G_AcPBzv3KRrH27X9DzRqrC-KV_rPEF01Sd8castV4QurC8h5IJbKeRlddGZrjYc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgSm0Z0dKzDglwlAoC_SpMe8qSKCgvgIiyBD-O0XhasE4CIHiquo8ePMoyEVgqo_5Th3VN2i0kvhRWNxQnbtc_hLrI/file/index.m3u8
 
 #EXTINF:-1 group-title="Radio" tvg-logo="https://freepngimg.com/thumb/meditation/7-2-meditation-transparent.png" tvg-id="", Meditation Music
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
