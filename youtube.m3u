@@ -132,7 +132,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Gujarati" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnir1JsG9lCOwHEgKGyy2nY-Q3JzxYfiud5rNfsmTw=s88-c-k-c0x00ffffff-no-rj" tvg-id="", ABP Asmita
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1766460218/ei/2rZJabjQL5_82_gP-OinwQk/ip/52.154.20.53/id/LGrFyEZT5a8.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AYUSA3BkDEjwe9vRgjXcfYf7hMI0v1t70MMrvRJ45hIvSDDqOsUVGR4Tb5JTuA5iDX12FN7xrIoiXgZY/spc/wH4Qq632HFkImFvCdKXgxWOuPnHF1KX2lJSJ2POQJPaD8oe4ywJnRGfz6QxjnIMBa0g/vprv/1/go/1/ns/Nr1dTWbId2YK-ardxJDTyh4R/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/n/6CTMVE5Y_O8LXBGCKb/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIOAlmMDBS7z5nmiXnYSUDBZCiHYTM8Mcfuq7aPxoG_DAiBN1awjPlDtchKKYxywlV4XYfHKKejskkUxN9YNvT9fWw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", Roland Martin Unfiltered
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
