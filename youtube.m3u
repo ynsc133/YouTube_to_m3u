@@ -51,7 +51,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="http://www.thanthitv.com/Images/TTV-800x800.png" tvg-id="830", Thanthi TV
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1770405102/ei/juiFafqpI8yJlu8P2K-8gAU/ip/135.232.232.89/id/-c9cWazatIo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51666466/txs/51666463%2C51666464%2C51666465%2C51666466%2C51666467/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_rNY0yRUgzU8ZRTxMtm9o9U8KKxX8tmd-hJPd57D8KBr6jmLOvV4svZB5tdvkDFvnIBi8eb-yD7/spc/q5xjPBTv-7T8Y1SDYIk4NowpprPvIhrOIx3fppu5Q7zbPKDwiHW5XT_UdMSNa2RtobPyVQ/vprv/1/go/1/ns/LOpEdYnPBhAHB-CHd4tJkX0S/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/n/oAZ8wtgXPEqCAOgZ7/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AJEij0EwRQIgQ6sCFi5p-kGBS8pb1ILQD46_Qlo5QU74ncVpG2yIIGsCIQDDHnpYgfsjBvu5kH6K7Xk0F4XtJhBuphACE77Q67qneA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="http://7starcloud.in/NB.png" tvg-id="ts58", New18 TamilNadu
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
