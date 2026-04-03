@@ -147,7 +147,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Janam_TV_logo.png/220px-Janam_TV_logo.png" tvg-id="", Janam TV
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1775264141/ei/LQ3Qade-A83Xir4PocLtiA0/ip/172.183.134.185/id/T9Ol2JHqKlM.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51773317/txs/51773317%2C51773318/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AUUZDGK8rR0d7pyg1unDoKl8JcQQTiyHbN2tMYJ6104MUgD5omXFyeNzg42IgI0VY1neXD7lcWlCKtqu/spc/jlWavQ4IOPdKle4BVuOc9K209kFx8TxmdqR5pBrUUwfIgU-jFnhaU5wIyHmlAOwn8MHhLA/vprv/1/go/1/ns/MWzF8WVtI76sdLkC0VCBGpkU/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565681/dover/11/n/TuABD5AcVzYFQ0RRhZQq/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgGMrQPgVi9x72Djbpg8UgHmhc9LYqxjH_2cgyRb_qLtwCIB9zBDy43zlWXjnt2m5N-jBE9AjvklqaVgKQHngCPICK/file/index.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Jaihind_TV_Logo.jpg/200px-Jaihind_TV_Logo.jpg" tvg-id="", Jai Hind
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -408,7 +408,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="", Kitten Academy Livestream
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1775264221/ei/fQ3QacBwyZzJuA-1y87wBA/ip/172.183.134.185/id/T4XZmMPQ9Kw.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51811605/txs/51811605%2C51811607/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AUUZDGILaDKDLR-3nBXGiZEzaTvYJYuPC9qDqk1Jzhjxc190ARx6zX3D1VAnfZc592eQw4ykCKvDoQEO/spc/jlWavYKdcOGc-y6ziBvu78AVFyRgIaSVCaidZI3_n_2aYXiRP9BujCNiZZGEvv_GNoY-HA/vprv/1/go/1/ns/CY-xsbO1cjgBsmMpJfA1XmgU/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565682/dover/11/n/-nkoB67oonDqKhZXAQFv/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIgF_CAZlxYsNq4_7UxX-FZMeMRL_6g7xnWpd9uZ8xGSxYCIQD41wMIcS0Mvymh1oOVZegIZue9OPY38byh1sXP1FaFRw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Malaysia" tvg-logo="" tvg-id="", Bernama TV
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
