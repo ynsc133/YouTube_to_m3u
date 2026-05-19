@@ -120,7 +120,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kannada" tvg-logo="http://www.tv5kannada.com/images/logo.png" tvg-id="", TV5 Kannada
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1779242242/ei/osAMaoqJCMTtir4Ppu29MA/ip/135.232.201.52/id/WV2uIrHGoZ4.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AbKmrwretK7AUcG41gJVrp7meaYGCCWQKZhlggL6LVj9hUSQkwU77nq8UW8TXorSqpNoeCQBoE2f-JRP/spc/96Xrv1G2D9QIQgkR6fBRuBn_zbjPVqoEytAX9rrA3jia3jXYUvrXqY5JZc2NA1xtLnUi6Q/vprv/1/go/1/ns/RaEms3dl3fXatLqHTxNXUDgV/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565682/dover/11/n/zQnnrKEEcVzgkLda/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIgDibxzgAxA7Bz_9N-U91FQ6CZUAlI_yMNCr6I4L13v2oCIQDPTyul0wyY1MhK_Zx7R1xPHh0bFMhJMxGs_P4ZV9RJdA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Kannada" tvg-logo="https://d2jo35ozacw6sq.cloudfront.net/wp-content/themes/tv9kannada/images/Tv9-Kannada-57x57.png" tvg-id="", TV9 Kannada
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -402,7 +402,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Odisha" tvg-logo="" tvg-id="", OTV 24x7
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1779242334/ei/_sAMaoTmEqmiir4P5LifmQw/ip/135.232.201.52/id/2dGOXnih5Nc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51828965/txs/51828965%2C51828966/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AbKmrwpEQehjNzKu5dnx8v5VPA_zj1uDRuW7JgMK0mp0uNbbAEizj-Be9L7XqGi7oWHdGJJ_o1qo2_Lt/spc/96Xrv8tDSA1I-usrl3d6ClyPNEPA6lkJwZgYvfvn_u4xKDwWAkgGojirmVN1lDnyc8PWgw/vprv/1/go/1/ns/tTD6pDIHmwGeQFEzJaUXEmUV/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565682/dover/11/n/IdPcs0p-pCQvAtfB/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIgPZwXyIHOFZFT_LeLwz0e3OK5WvoitbDdGfEZ-L280YUCIQDDXBFk-xGDH86ab5tR4C1N6Uk0H-oRb-4fPWdmXO77aw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Odisha" tvg-logo="" tvg-id="", News 18 Odia
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
