@@ -147,7 +147,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Janam_TV_logo.png/220px-Janam_TV_logo.png" tvg-id="", Janam TV
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1779330266/ei/ehgOaoiONc7Plu8Pt7r5wAQ/ip/135.232.224.163/id/T9Ol2JHqKlM.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AbKmrwoLgmdVNJpU7FJDXF2Lq82MsQ_dUqaMu87Whwbi3B-UPbd-gp6PdbPd0auxNB26YdzEHOrKvj3Z/spc/96XrvzuoG2vG8869uOO-9I72IACo2z1KptslHt-y9Aqm77KZP8YGgUUBejdaATOtXN1isg/vprv/1/go/1/ns/LiWRjK8QN4Gyq2g1MEUblZQV/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565681/dover/11/n/LTh476bBBBUVrTjK1Q5/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRgIhAKlTZSbSgRx2tRc6y3weDgnuxP7q2bnobblgk_5L7L2XAiEAuN-7me5owZ5pVmqlXqJIw13pMKJR0DgZab8wgnaNKDU%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Jaihind_TV_Logo.jpg/200px-Jaihind_TV_Logo.jpg" tvg-id="", Jai Hind
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -405,7 +405,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Odisha" tvg-logo="" tvg-id="", News 18 Odia
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1779312999/ei/B9UNaoTZId6hlu8PxZO58Ao/ip/172.215.210.57/id/k8BINdBE5Bg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AbKmrwp89kbBpN37L5doAFJBFfF4F9dpdbER3qkiGHgRkZsVko5Br8X-AoAIVQZbKS5-Z118zi1LU7kv/spc/96Xrv2-0YznVt5_r8kqa_3n91wlCgbFRxQS1bhtXuPs8c9ehlDHfEy_6CEuxKjaoqI43NA/vprv/1/go/1/ns/-RsGhB3bf_hwadOS-R4Q9IIV/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565681/dover/11/n/HLEn2qucneXQKuH0evE/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIgcPd60Kb760_feFJHZKJV5LxagU29X0IWDT_AUxL2VGMCIQDU2qaCzxdQhpWzvq2pdBe5fJmO6-RzX6_v5QRAUkhtgw%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="", Kitten Academy Livestream
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
