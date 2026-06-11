@@ -147,7 +147,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Janam_TV_logo.png/220px-Janam_TV_logo.png" tvg-id="", Janam TV
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1781231274/ei/ShorauOrNs7evPEPvvjFoQ4/ip/132.196.32.69/id/T9Ol2JHqKlM.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/ARmQxEVwR3NclgyIaTr2dWVeS3F44yLX5MJCoVCfvEECQ12Upx72dlkChvM7vkscvyGFCRmlUFm2rhJB/spc/SQ-umtip05DHqhq9BkJV899dScIUv1h39wlAG0zVDBjAa7juJxn8lWXANu8aCH6ZPwJsMw/vprv/1/go/1/ns/IsGFCpPqEKElfWmQ5-yT2FAV/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565682/dover/11/n/_4mrDyq8eUNS83VQGB/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIgaHCPzGNZNfBUcpPgcw3Xh0x0Lt5sZGdIy_310HWTxU4CIQD-l-KEOHYrgs0ENOIB9yZOJ0cJl0WabohFWMrtoR78Fw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Jaihind_TV_Logo.jpg/200px-Jaihind_TV_Logo.jpg" tvg-id="", Jai Hind
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
