@@ -51,7 +51,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="http://www.thanthitv.com/Images/TTV-800x800.png" tvg-id="830", Thanthi TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1788403813/ei/BYyYatTUGavZkucP57ra8Ag/ip/52.173.237.20/id/_Lg0IUxUMi0.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AR3QkAkHPxyilbxFPe7v3d1_BOnpo2lhkSOzyYCFJFRKjVrm-JtfmlNLQfDmC9C7gfwpVwaw4TCT-jQ2/spc/I-rgIf6PP9g6cAyZx4TOsVa_Gdu00vN6IEY_cPaIgXK7nSWyzo36pE79AiOPRq5FNhgT4_3y/vprv/1/go/1/ns/3jDOIBraDGoimltOuh8Ac4kX/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C52135441/dover/11/n/WeUp87KAgbrKvOajcRG/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AE0s2JYwRQIhAMaJ77Plj0ZyojI94Y_lNqzq3dSQ98-KOu0qUhIz0wD4AiAzfgJZ_IT2aFHe9SomA4KM_Y4qBu50Bds54_Av0L0i5w%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="http://7starcloud.in/NB.png" tvg-id="ts58", New18 TamilNadu
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -60,7 +60,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Urdu" tvg-logo="" tvg-id="", GNN
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1788403819/ei/C4yYatqOA7q9kucP8smpwQI/ip/52.173.237.20/id/Pzv58lUgiVo.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/ss/1/ssa/1/bui/AR3QkAlZiNakpUGJC8vpNxT8BUdF9RiqDDjTw0tQPfnFJyrnHKA-oa-XonhHlcEibED5RfSR1Ity9twP/spc/I-rgIeQhVsw5HxRpICNXCEl8Fyi8bLrE49p34IvTRDsuFGuYm6mquZxZEwBXjDC62gNkuYLF/vprv/1/go/1/ns/-BVCkPhEU5oITYsUjJfnwTgX/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C52135441%2C52189887/dover/11/n/sNXgH3UdJpaxXZsbF1k/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AE0s2JYwRQIhAKHLzaxRAEdc4vKjgJzuAc2XWf94rnRXG65vqo_AnkP3AiBlgVme8Uza-PQc4etORASgu-j8r8a7mceGM3agc-giJQ%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png" tvg-id="", ABC News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -465,7 +465,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Persian" tvg-logo="" tvg-id="", BBC Persian
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1788403988/ei/tIyYatGRKZqAkucPytOY6Qg/ip/52.173.237.20/id/iVQJRxmux8Q.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AR3QkAlOaFpP5otXpy54591kM1K9yaZEh9fX2WsSxrw-blnMlADN98WLxCxvPZ-gzKwztAjx3UWfqfAc/spc/I-rgIZT1iO2xNw8iaz_Mbf4oUpJyIVpAVhqfP9YaXrMDYpH16C28IuHuIhahXA7JSCjMvYdt/vprv/1/go/1/ns/rZcTyWMLxbRdAmB6kw7I_igX/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C52135441/dover/11/n/WEcPRJ-lfoB764p4yqG/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AE0s2JYwRAIgQYdV-m3h1-1yfhn-ml8pGQDmdcPf4wpQeTumNfe5Q-ECIHhvd_vCleDmGDdg0qR-9qpGcPNUfi-yjv-H0J0mqBsn/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", Euronews
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
