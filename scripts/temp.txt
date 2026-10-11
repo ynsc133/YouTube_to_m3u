@@ -2,5 +2,5 @@
 <TITLE>302 Moved</TITLE></HEAD><BODY>
 <H1>302 Moved</H1>
 The document has moved
-<A HREF="https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DFSVtfGLzf1Q&amp;q=EgQ0pdW2GI2CrtYGIjAYcwWWdXcDWqi7DOIl_j6gDy1cC2lfwtwgu7EaJk_MafPTtwuxJi_Gw6vqTAFtMW0yAnJSWgFD">here</A>.
+<A HREF="https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DFSVtfGLzf1Q&amp;q=EgQUDkyAGMbGr9YGIjDfrgkjY9Gi-GNWdWF8GpjvKiFHWEUlH0tHyW5BzfIsmOULIEDuTHhbWWqrcNBXzj0yAnJSWgFD">here</A>.
 </BODY></HTML>
